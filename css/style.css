@@ -1,0 +1,37 @@
+@font-face {
+    font-family: Grack;
+    src: url(../fonts/Grack-Regular.ttf);
+}
+
+* {
+    background-color: rgb(165, 226, 250);
+    font-family: Grack, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: left;
+}
+
+p, a, ul, ol, li {
+    font-size : 20px;
+    text-align: left;
+    font-family:'Courier New', Courier, monospace;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    border: 7px ridge rgb(1, 1, 94);  
+}
+
+#homescreen {
+    font-family: Grack, sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
