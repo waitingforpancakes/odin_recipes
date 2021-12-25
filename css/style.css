@@ -8,6 +8,11 @@
     src: url(../fonts/Gronk_gs-Regular.ttf);
 }
 
+@font-face {
+    font-family: Mont;
+    src: url(../fonts/Mont6-Regular.ttf);
+}
+
 * {
     background-color: rgb(165, 226, 250);
     font-family: Grack, sans-serif;
@@ -36,7 +41,7 @@ img {
 }
 
 #homescreen {
-    font-family: Grack, sans-serif;
+    font-family: Mont, sans-serif;
     text-align: center;
     font-size: 50px;
 }
